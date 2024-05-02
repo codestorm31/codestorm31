@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codestorm31](https://github.com/codestorm31)
+- 👨‍💻 All of my projects are available at [https://github.com/codestorm31](https://github.com/codestorm31?tab=repositories)
 
 - 📫 How to reach me **aryansaji3103@gmail.com**
 
